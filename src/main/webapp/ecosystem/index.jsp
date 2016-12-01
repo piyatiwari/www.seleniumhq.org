@@ -45,6 +45,10 @@
             <a rel="nofollow" href="http://webperformance.com/permlink/selenium-webdriver-integration">Web Performance Load Tester</a> -
             The no-coding real-browser load testing software that knows how many users your website can handle.
         </li>
+        <li>
+            <a rel="nofollow" href="https://smartbear.com/product/alertsite/capabilities/#Selenium">AlertSite Synthetic Monitoring</a> -
+            Reuse existing Selenium scripts to create multi-step web transaction monitors and get alerted on performance issues. 
+        </li>
     </ul>
 
     <h2>Tools with Selenium Support</h2>
